@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.Editor {
+  border: 1px solid #ccc;
+  border-radius: 2px;
+  min-height: 200px;
+  padding: 8px;
+}
